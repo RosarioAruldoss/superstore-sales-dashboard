@@ -1,7 +1,7 @@
 # Superstore Sales Dashboard
 
 This project analyzes sales data from the Superstore dataset to uncover key business insights.  
-The analysis was done using Python (Pandas, Matplotlib, Seaborn) in a Jupyter Notebook.
+The analysis was done using Python (Pandas, Matplotlib, Seaborn) in Jupyter Notebook.
 
 ## 📂 Dataset
 
